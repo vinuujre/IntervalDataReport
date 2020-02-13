@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@using (Html.BeginForm("ExportToExcel", "Home", FormMethod.Post))
+{
+    <h2>GetIntervalData</h2>
+    <input type="submit" value="Export to Excel" class="button" />
+}
+

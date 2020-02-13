@@ -1,0 +1,8 @@
+E:\Projects\Examples\IntervalDataReport\Models\bin\Debug\netstandard2.0\Models.deps.json
+E:\Projects\Examples\IntervalDataReport\Models\bin\Debug\netstandard2.0\Models.dll
+E:\Projects\Examples\IntervalDataReport\Models\bin\Debug\netstandard2.0\Models.pdb
+E:\Projects\Examples\IntervalDataReport\Models\obj\Debug\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+E:\Projects\Examples\IntervalDataReport\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+E:\Projects\Examples\IntervalDataReport\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+E:\Projects\Examples\IntervalDataReport\Models\obj\Debug\netstandard2.0\Models.dll
+E:\Projects\Examples\IntervalDataReport\Models\obj\Debug\netstandard2.0\Models.pdb

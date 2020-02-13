@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="IntervalDatabaseModelStoreContainer" CdmEntityContainer="IntervalDatabaseEntities">
+    <EntitySetMapping Name="IntervalDatas">
+      <EntityTypeMapping TypeName="IntervalDatabaseModel.IntervalData">
+        <MappingFragment StoreEntitySet="IntervalData">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="DeliveryPoint" ColumnName="DeliveryPoint" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="TimeSlot" ColumnName="TimeSlot" />
+          <ScalarProperty Name="SlotVal" ColumnName="SlotVal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
